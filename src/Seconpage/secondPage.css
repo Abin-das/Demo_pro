@@ -1,0 +1,198 @@
+.Heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  color: #6b6b6b;
+}
+
+.Grid {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  align-items: stretch;
+  text-align: center;
+  margin-left: 200px;
+}
+.mainGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 180px;
+}
+
+.Grid2 {
+  margin: 10px;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  align-items: stretch;
+  text-align: center;
+
+  margin-top: 80px;
+  text-align: center !important;
+}
+.agebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center !important;
+  width: 188px;
+  height: 107px;
+  background: #ffffff;
+
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+
+.Containner {
+  width: 1060px;
+  height: 50px;
+  background: #dcdcdc;
+  border-radius: 15px;
+}
+.mainhead {
+  display: flex;
+  font-weight: 500;
+  font-size: 18px;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.Font {
+  font-family: "Inter";
+  font-style: normal;
+
+  /* identical to box height */
+
+  color: #6b6b6b;
+}
+.Grid3 {
+  cursor: pointer;
+  display: grid;
+  padding-bottom: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 1060px;
+}
+
+.Lastbox {
+  width: 1060px;
+  height: auto;
+
+  background: #ffffff;
+  box-shadow: -6px 8px 17px 1px rgba(0, 0, 0, 0.11);
+  border-radius: 24px;
+}
+.colors {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: left;
+
+  color: #009ff9;
+}
+
+.Bottomline {
+  border-bottom: 1x solid #d0dfff;
+}
+.textfontz {
+  margin-top: 52px;
+  margin-bottom: 20px;
+}
+.textfontzz {
+  font-family: Inter;
+  font-weight: 500;
+
+  text-align: left;
+  font-size: 18px;
+}
+.selected {
+  border: 2px solid #009ff9;
+}
+.form-controler {
+  width: 200px;
+  height: 50px;
+  border: 1px solid #464646;
+  border-radius: 15px;
+}
+.dropdown {
+  width: 260px;
+  height: 50px;
+
+  border: 1px solid #464646;
+  border-radius: 15px;
+}
+.padding {
+  padding: 10px;
+}
+.smalltextfontzz {
+  font-size: 15px;
+  margin-top: -20px;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 10px;
+  color: #6b6b6b;
+}
+.smalltextfontzz1 {
+  font-size: 15px;
+  margin-top: -20px;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 10px;
+  color: #009ff9 !important;
+}
+.covaxin {
+  font-weight: 500;
+  font-size: 18px;
+
+  margin-top: 30px;
+  color: #54ce09;
+}
+.covaxin1 {
+  font-weight: 500;
+  font-size: 18px;
+
+  margin-top: 30px;
+  color: #009ff9 !important;
+}
+.covshield {
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 30px;
+
+  color: #ff0000;
+}
+.covshield1 {
+  color: #009ff9 !important;
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 30px;
+}
+.selectedd {
+  color: #009ff9 !important;
+  display: grid;
+  padding-bottom: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 1060px;
+}
+.select {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+}
+.Number {
+  font-weight: 500;
+  font-size: 18px;
+}
+.else {
+  font-size: 20px;
+}
+

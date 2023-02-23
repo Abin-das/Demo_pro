@@ -1,0 +1,114 @@
+.Head {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+
+  color: #6b6b6b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.box {
+  box-sizing: border-box;
+
+  width: 200px;
+  height: 50px;
+
+  border: 1px solid #464646;
+  border-radius: 15px;
+}
+.newgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 100px;
+  margin-top: -45px;
+}
+.line {
+  width: 437px;
+  height: 0px;
+  margin-left: 200px;
+  border: 1px solid #d0dfff;
+}
+
+.hospiname {
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+
+  color: #6b6b6b;
+}
+.number {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 180px;
+  padding-top: 10px;
+  color: #6b6b6b;
+}
+.address {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+margin-top: -25px;
+margin-right: auto;
+  color: #6b6b6b;
+}
+.vaccinebooth {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+
+  color: #6b6b6b;
+}
+.selectiontime {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+
+  color: #6b6b6b;
+}
+.covid {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+
+  color: #6b6b6b;
+  margin-left: 200px;
+  margin-top: -50px;
+}
+.name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+
+  color: #6b6b6b;
+}
+.date {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+
+  color: #6b6b6b;
+}
+.DOB {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  color: #6b6b6b;
+  margin-top: -20px;
+}
+.margine {
+  margin-left: 200px;
+}

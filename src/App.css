@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Inter"; /*Can be any text*/
+  src: local("Inter"), url("../public//Inter-Regular.ttf") format("truetype");
+}
+
+.tabs {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+
+  text-transform: uppercase;
+
+  color: #ffffff !important;
+}
+.tabss {
+  background: #009ff9 !important;
+}
